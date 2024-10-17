@@ -23,7 +23,7 @@ CAPSULE is a web-based application that does not require any additional installa
 
 ## Contact Information
 
-For support or inquiries, please reach out via email at [revanthrampal@gmail.com](mailto:revanthrampal@gmail.com).
+For support or inquiries, please reach out via email at [vinodkumarhulebeedu@gmail.com](mailto:vinodkumarhulebeedu@gmail.com).
 
 ## License
 
